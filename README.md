@@ -1,2 +1,9 @@
 # Titanic-Survival-Exploration
-Manually used Decision Tree Algorithm to find out the survival rate of titanic passengers
+Machine Learning introductory project where Decision Tree Algorithm is manualy used to find out the survival rate of titanic passengers
+
+### Prerequisites
+
+```
+Jupyter Notebook
+Python
+```
